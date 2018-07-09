@@ -1,1 +1,6 @@
-you & me.
+<<<<<<< HEAD
+you and me.
+=======
+this is a test file.
+you AND me.
+>>>>>>> dev2
